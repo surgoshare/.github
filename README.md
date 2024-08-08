@@ -1,5 +1,5 @@
 ---
-url_github:
+url_github: https://github.com/surgoshare/.github
 ---
 ## What ⚡
 Strategies & Code to Help Orgs with Knowledge Sharing & Team Collaboration
