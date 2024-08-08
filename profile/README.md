@@ -6,4 +6,3 @@ Knowledge management is challenging and failures in this area have a significant
 
 ## How 📋
 We're publising all the code we write and all the learnings we gather we help us with our own knowledge sharing within this Github org. You may use it all too and make your own contributions!
-💡⌨️ -> 🏢 -> 🧠🤝
